@@ -7,6 +7,8 @@ from mongodb_queue import MogoQueue
 from Download import request
 from bs4 import BeautifulSoup
 
+
+'''
 SLEEP_TIME=1
 
 def law_crawler(max_threads=10):
@@ -66,3 +68,4 @@ def process_crawler():
 		
 if __name__ == "__main__":
 	process_crawler()
+'''
